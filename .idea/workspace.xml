@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f70a38af-539f-4a0e-a205-169ff9d01e01" name="Changes" comment="Exercises 1 &amp; 2 added">
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise3/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise4/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise5/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise6/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise7/Exercise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise11/Exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise12/Exercise12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise13/Exercise13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise14/Exercise14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise8/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise9/Exercise9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise2/Exercise2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercise7">
-    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise3.Exercise3" />
+  <component name="RunManager" selected="Application.Exercise14">
+    <configuration name="Exercise11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise11.Exercise11" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise3.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise4.Exercise4" />
+    <configuration name="Exercise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise12.Exercise12" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise4.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise5.Exercise5" />
+    <configuration name="Exercise13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise13.Exercise13" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise5.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise6.Exercise6" />
+    <configuration name="Exercise14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise14.Exercise14" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise6.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise7.Exercise7" />
+    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise9.Exercise9" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise7.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise7" />
-        <item itemvalue="Application.Exercise6" />
-        <item itemvalue="Application.Exercise5" />
-        <item itemvalue="Application.Exercise4" />
-        <item itemvalue="Application.Exercise3" />
+        <item itemvalue="Application.Exercise14" />
+        <item itemvalue="Application.Exercise13" />
+        <item itemvalue="Application.Exercise12" />
+        <item itemvalue="Application.Exercise11" />
+        <item itemvalue="Application.Exercise9" />
       </list>
     </recent_temporary>
   </component>
