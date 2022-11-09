@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70a38af-539f-4a0e-a205-169ff9d01e01" name="Changes" comment="Exercises 1 &amp; 2 added">
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise11/Exercise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise12/Exercise12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise13/Exercise13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise14/Exercise14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise8/Exercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise9/Exercise9.java" afterDir="false" />
+    <list default="true" id="f70a38af-539f-4a0e-a205-169ff9d01e01" name="Changes" comment="Up to exercise 14 (Except 10)">
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise15/Exercise15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercise14">
+  <component name="RunManager" selected="Application.Exercise15">
     <configuration name="Exercise11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise11.Exercise11" />
       <module name="JavaCodingProblems" />
@@ -99,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise9.Exercise9" />
+    <configuration name="Exercise15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise15.Exercise15" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise9.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise15" />
         <item itemvalue="Application.Exercise14" />
         <item itemvalue="Application.Exercise13" />
         <item itemvalue="Application.Exercise12" />
         <item itemvalue="Application.Exercise11" />
-        <item itemvalue="Application.Exercise9" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667479858899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Up to exercise 14 (Except 10)">
+      <created>1667904492906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667904492906</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercises 1 &amp; 2 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercises 1 &amp; 2 added" />
+    <MESSAGE value="Up to exercise 14 (Except 10)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up to exercise 14 (Except 10)" />
   </component>
 </project>
