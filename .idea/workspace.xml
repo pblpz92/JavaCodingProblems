@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70a38af-539f-4a0e-a205-169ff9d01e01" name="Changes" comment="Up to exercise 15">
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise16/Exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise17/Exercise17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise18/Exercise18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise19/Exercise19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise20/Exercise20.java" afterDir="false" />
+    <list default="true" id="f70a38af-539f-4a0e-a205-169ff9d01e01" name="Changes" comment="Up to exercise 20">
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise21/Exercise21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise22/Exercise22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise23/Exercise23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise24/Exercise24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise25/Exercise25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise26/Exercise26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise28/Exercise28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1StringAndMath/Exercise29/Exercise29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,20 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
-}</component>
-  <component name="RunManager" selected="Application.Exercise20">
-    <configuration name="Exercise16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise16.Exercise16" />
+}]]></component>
+  <component name="RunManager" selected="Application.Exercise29">
+    <configuration name="Exercise24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise24.Exercise24" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise16.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise17.Exercise17" />
+    <configuration name="Exercise25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise25.Exercise25" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise17.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise18.Exercise18" />
+    <configuration name="Exercise26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise26.Exercise26" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise18.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise19.Exercise19" />
+    <configuration name="Exercise28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise28.Exercise28" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise19.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise20.Exercise20" />
+    <configuration name="Exercise29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1StringAndMath.Exercise29.Exercise29" />
       <module name="JavaCodingProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter1StringAndMath.Exercise20.*" />
+          <option name="PATTERN" value="Chapter1StringAndMath.Exercise29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise20" />
-        <item itemvalue="Application.Exercise19" />
-        <item itemvalue="Application.Exercise18" />
-        <item itemvalue="Application.Exercise17" />
-        <item itemvalue="Application.Exercise16" />
+        <item itemvalue="Application.Exercise29" />
+        <item itemvalue="Application.Exercise28" />
+        <item itemvalue="Application.Exercise26" />
+        <item itemvalue="Application.Exercise25" />
+        <item itemvalue="Application.Exercise24" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668005023226</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Up to exercise 20">
+      <created>1668255867983</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668255867983</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +183,7 @@
     <MESSAGE value="Exercises 1 &amp; 2 added" />
     <MESSAGE value="Up to exercise 14 (Except 10)" />
     <MESSAGE value="Up to exercise 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Up to exercise 15" />
+    <MESSAGE value="Up to exercise 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up to exercise 20" />
   </component>
 </project>
